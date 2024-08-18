@@ -20,7 +20,7 @@ with religious implications, but its direction is set by the human heart.
 Developing and using technology is one way we love God and our neighbor, and
 more fully witness to the gospel of Jesus Christ for the entire world.&rdquo;*
 
-<div class="flushright" id="orge99003a">
+<div class="flushright" id="orge9bd23f">
 <p>
 From <i>A Christian Field Guide to Technology for Engineers and Designers</i> by
 Ethan Brue, Derek Schuurman, and Steven Vanderleest
@@ -65,7 +65,8 @@ Can we build our understanding of the technological vocation on rock?
 
 ## Week 2
 
-**<span class="underline">Subject: A Christian Framing of Technology</span>**
+**<span class="underline">Subject: A Christian Framing of Technology</span>** (maybe: &ldquo;The shortcomings of a
+ secular framing of ethical technology&rdquo;)
 
 
 ### Readings
@@ -76,7 +77,7 @@ Can we build our understanding of the technological vocation on rock?
 
 ## Week 3
 
-**<span class="underline">Subject:</span>**
+**<span class="underline">Subject:</span>** (maybe: Orig week 2, the Christian framing of ethical technology)
 
 
 ### Readings
@@ -86,7 +87,7 @@ Can we build our understanding of the technological vocation on rock?
 
 ## Week 4
 
-**<span class="underline">Subject: Responsible Technology</span>**
+**<span class="underline">Subject: Responsible Technology as Practitioner</span>**
 
 *&ldquo;Whatever you do, work at it with all your heart, as working for the Lord, not
 for human masters, since you know that you will receive an inheritance from
