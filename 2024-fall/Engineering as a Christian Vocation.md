@@ -20,7 +20,7 @@ with religious implications, but its direction is set by the human heart.
 Developing and using technology is one way we love God and our neighbor, and
 more fully witness to the gospel of Jesus Christ for the entire world.&rdquo;*
 
-<div class="flushright" id="orge9bd23f">
+<div class="flushright" id="org7e43671">
 <p>
 From <i>A Christian Field Guide to Technology for Engineers and Designers</i> by
 Ethan Brue, Derek Schuurman, and Steven Vanderleest
@@ -43,14 +43,19 @@ simply as an end user, but a creator, practitioner, designer, and engineer.
 
 **<span class="underline">Subject: The Technological Frame</span>**
 
-*“Therefore everyone who hears these words of mine and puts them into practice
+<div class="mdframed" id="org8d9b583">
+<p>
+<i>“Therefore everyone who hears these words of mine and puts them into practice
 is like a wise man who built his house on the rock. The rain came down, the
 streams rose, and the winds blew and beat against that house; yet it did not
 fall, because it had its foundation on the rock. But everyone who hears these
 words of mine and does not put them into practice is like a foolish man who
 built his house on sand. The rain came down, the streams rose, and the winds
-blew and beat against that house, and it fell with a great crash.”* Matthew
+blew and beat against that house, and it fell with a great crash.”</i> Matthew
 7:24-27
+</p>
+
+</div>
 
 Can we build our understanding of the technological vocation on rock?
 
@@ -65,38 +70,73 @@ Can we build our understanding of the technological vocation on rock?
 
 ## Week 2
 
-**<span class="underline">Subject: A Christian Framing of Technology</span>** (maybe: &ldquo;The shortcomings of a
- secular framing of ethical technology&rdquo;)
+**<span class="underline">Subject: A Secular Framing of Ethical Technology</span>**
+
+<div class="mdframed" id="org03fb28c">
+<p>
+<i>&ldquo;Do not love the world or anything in the world. If anyone loves the world,
+love for the Father is not in them. For everything in the world—the lust
+of the flesh, the lust of the eyes, and the pride of life—comes not from the
+Father but from the world. The world and its desires pass away, but whoever
+does the will of God lives forever.&rdquo;</i> 1 John 2:15-17
+</p>
+
+</div>
+
+
+### Readings
+
+-   *Ethics in the Age of Disruptive Technology, Appendix 1/2 - Examples of
+    Technology Ethics and Responsible Technology Practices & ITEC Principles and
+    How to Use Them: Anchoring, Guiding, Specifying, Action* by Intstitute for
+    Technology, Ethics, and Culture
+-   *Ethics in Technology Practice* by Shannon Vallorm, Iring Raicu, and Brian
+    Green. The Markkula Center for Applied Ethics at Santa Clara University
+-   *Code of Ethics for Engineers* National Society of Professional Engineers
+
+
+## Week 3
+
+**<span class="underline">Subject: A Christian Framing of Ethical Technology</span>**
+
+<div class="mdframed" id="org63323f4">
+<p>
+<i>&ldquo;Do not conform to the pattern of this world, but be transformed by the
+renewing of your mind. Then you will be able to test and approve what God’s will
+is—his good, pleasing and perfect will.&rdquo;</i> Romans 12:2 
+<i>&ldquo;Your hands made me and formed me; give me understanding to
+learn your commands.&rdquo;</i> Psalm 119:73
+</p>
+
+</div>
 
 
 ### Readings
 
 -   *The Computer Scientist as Toolsmith II* by Fred Brooks, Communications with
     the ACM, March 1996
-
-
-## Week 3
-
-**<span class="underline">Subject:</span>** (maybe: Orig week 2, the Christian framing of ethical technology)
-
-
-### Readings
-
--   
+-   *A Christian Field Guide to Technology for Engineers and Designers*, Chapters
+    5 & 6, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 
 
 ## Week 4
 
-**<span class="underline">Subject: Responsible Technology as Practitioner</span>**
+**<span class="underline">Subject: Putting it Into Practice</span>**
 
-*&ldquo;Whatever you do, work at it with all your heart, as working for the Lord, not
-for human masters, since you know that you will receive an inheritance from
-the Lord as a reward. It is the Lord Christ you are serving.&rdquo;* Colossians 3:23-24
+<div class="mdframed" id="orgb135e8b">
+<p>
+<i>&ldquo;Whatever you do, work at it with all your heart, as working for the Lord, not
+for human masters, since you know that you will receive an inheritance from the
+Lord as a reward. It is the Lord Christ you are serving.&rdquo;</i> Colossians 3:23-24
+</p>
+
+</div>
 
 
 ### Readings
 
--   
+-   *A Christian Field Guide to Technology for Engineers and Designers*, Chapter
+    9, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 
 
 # Week 1
