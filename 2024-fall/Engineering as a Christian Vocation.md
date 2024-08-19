@@ -20,7 +20,7 @@ with religious implications, but its direction is set by the human heart.
 Developing and using technology is one way we love God and our neighbor, and
 more fully witness to the gospel of Jesus Christ for the entire world.&rdquo;*
 
-<div class="flushright" id="org09af1ab">
+<div class="flushright" id="orga91f1a8">
 <p>
 From <i>A Christian Field Guide to Technology for Engineers and Designers</i> by
 Ethan Brue, Derek Schuurman, and Steven Vanderleest
@@ -43,7 +43,7 @@ simply as an end user, but a creator, practitioner, designer, and engineer.
 
 **<span class="underline">Subject: The Technological Frame</span>**
 
-<div class="mdframed" id="orgc939f13">
+<div class="mdframed" id="org025150d">
 <p>
 <i>“Therefore everyone who hears these words of mine and puts them into practice
 is like a wise man who built his house on the rock. The rain came down, the
@@ -74,7 +74,7 @@ Can we build our understanding of the technological vocation on rock?
 
 **<span class="underline">Subject: A Secular Framing of Ethical Technology</span>**
 
-<div class="mdframed" id="org2c952f0">
+<div class="mdframed" id="orgc346e86">
 <p>
 <i>&ldquo;Do not love the world or anything in the world. If anyone loves the world,
 love for the Father is not in them. For everything in the world—the lust
@@ -102,7 +102,7 @@ does the will of God lives forever.&rdquo;</i> 1 John 2:15-17
 
 **<span class="underline">Subject: A Christian Framing of Ethical Technology</span>**
 
-<div class="mdframed" id="org2241cdb">
+<div class="mdframed" id="org265b3fc">
 <p>
 <i>&ldquo;Do not conform to the pattern of this world, but be transformed by the
 renewing of your mind. Then you will be able to test and approve what God’s will
@@ -126,7 +126,7 @@ learn your commands.&rdquo;</i> Psalm 119:73
 
 **<span class="underline">Subject: Putting it Into Practice</span>**
 
-<div class="mdframed" id="orgd87264d">
+<div class="mdframed" id="orgc1bd2d6">
 <p>
 <i>&ldquo;Whatever you do, work at it with all your heart, as working for the Lord, not
 for human masters, since you know that you will receive an inheritance from the
@@ -150,7 +150,7 @@ Lord as a reward. It is the Lord Christ you are serving.&rdquo;</i> Colossians 3
 </p>
 </div>
 
-<div class="mdframed" id="org46c97b1">
+<div class="mdframed" id="org42b8347">
 <p>
 <i>&ldquo;I never said a word against eminent men of science. What I complain of is a
 vague popular philosophy which supposes itself to be scientific when it is
@@ -191,7 +191,7 @@ G.K. Chesterton, <i>The Club of Queer Trades</i> (1905)
 </p>
 </div>
 
-<div class="mdframed" id="orgdb8924a">
+<div class="mdframed" id="orgc5440f3">
 <p>
 <i>&ldquo;Mr. Wells, however, is not quite clear enough of the narrower scientific outlook
 to see that there are some things which actually ought not to be scientific. He
@@ -233,7 +233,7 @@ G.K. Chesterton, <i>Heretics</i> (1905)
 </p>
 </div>
 
-<div class="mdframed" id="orgdd739ce">
+<div class="mdframed" id="org1e0e2bd">
 <p>
 <i>&ldquo;Modern masters of science are much impressed with the need of beginning all
 inquiry with a fact. The ancient masters of religion were quite equally
@@ -243,7 +243,17 @@ there was no doubt at any rate that he wanted washing.&rdquo;</i>
 </p>
 
 <p>
-G.K. Chesterton, <i>Orthodoxy</i> (1908)
+G.K. Chesterton, <i>Orthodoxy</i> (1908) 
+</p>
+
+<p>
+<i>&ldquo;Christianity is an event. There is no other word to indicate its nature, neither the word
+law, nor the words ideology, concept, or plan. Christianity is not a religious doctrine, a
+series of moral laws or a collection of rites. Christianity is a fact, an event.&rdquo;</i>
+</p>
+
+<p>
+Luigi Giussani, <i>Generating Traces in the History of the World</i> (2010)
 </p>
 
 </div>
@@ -267,7 +277,7 @@ G.K. Chesterton, <i>Orthodoxy</i> (1908)
 </p>
 </div>
 
-<div class="mdframed" id="org677b2b9">
+<div class="mdframed" id="orgfc50732">
 <p>
 <i>&ldquo;But I have only taken this as the first and most evident case of the general
 truth: that the great ideals of the past failed not by being outlived (which

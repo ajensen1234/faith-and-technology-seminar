@@ -184,7 +184,13 @@ impressed with that necessity. They began with the fact of sin—a fact as
 practical as potatoes. Whether or not man could be washed in miraculous waters,
 there was no doubt at any rate that he wanted washing."/
 
-@@latex:\hfill@@ G.K. Chesterton, /Orthodoxy/ (1908)
+@@latex:\hfill@@ G.K. Chesterton, /Orthodoxy/ (1908) @@latex:\newline@@
+
+@@latex:\noindent@@ /"Christianity is an event. There is no other word to indicate its nature, neither the word
+law, nor the words ideology, concept, or plan. Christianity is not a religious doctrine, a
+series of moral laws or a collection of rites. Christianity is a fact, an event."/
+
+@@latex:\hfill@@ Luigi Giussani, /Generating Traces in the History of the World/ (2010)
 #+end_mdframed
 ** Readings
 1. /The Computer Scientist as Toolsmith II/ by Fred Brooks
