@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       87d3c192-5ea3-4424-b598-4cabdcf89ffc
 :END:
-#+title: Engineering as a Christian Vocation
+#+title: S.T.E.M. as a Christian Vocation
 :DRAWER:
 #+subtitle: Fall 2024
 #+author:
