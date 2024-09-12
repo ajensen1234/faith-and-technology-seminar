@@ -40,13 +40,14 @@ technology through science and engineering has always been a cultural activity
 with religious implications, but its direction is set by the human heart.
 Developing and using technology is one way we love God and our neighbor, and
 more fully witness to the gospel of Jesus Christ for the entire world."/
+
 #+begin_flushright
 From /A Christian Field Guide to Technology for Engineers and Designers/ by
 Ethan Brue, Derek Schuurman, and Steven Vanderleest
 #+end_flushright
 
 The primary question driving this discussion group is, /What does it mean to
-follow Christ technological vocation?/ Modernity seems to be telling us that
+follow Christ in a technological vocation?/ Modernity seems to be telling us that
 science, technology, and engineering are somehow opposed to faith. Furthermore,
 to many, the influence of technology and "science" are the primary reasons for
 abandoning their faith. However, many feel called to engage with technology, not
