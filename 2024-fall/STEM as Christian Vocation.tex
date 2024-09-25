@@ -1,15 +1,11 @@
-% Created 2024-09-12 Thu 10:55
-% Intended LaTeX compiler: pdflatex
-\documentclass[11pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+% Created 2024-09-25 Wed 12:01
+% Intended LaTeX compiler: xelatex
+\documentclass[12pt]{article}
 \usepackage{graphicx}
 \usepackage{longtable}
 \usepackage{wrapfig}
 \usepackage{rotating}
 \usepackage[normalem]{ulem}
-\usepackage{amsmath}
-\usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
 \usepackage[left=0.75in, right=0.75in, top=0.75in, bottom=0.75in]{geometry}
@@ -20,7 +16,16 @@
 \titleformat{\section}[block]{\Large\bfseries\filcenter}{}{1em}{}
 \let\oldsection\section
 \renewcommand\section{\clearpage\oldsection}
+\usepackage{enumitem}
+\setlist[itemize]{itemsep=1pt}
+\setlist[enumerate]{itemsep=1pt}
 \usepackage{mlmodern}
+\usepackage{xcolor}
+\usepackage{amsmath, amssymb}
+\usepackage{fontspec}
+\setmainfont{Linux Libertine}
+\setmonofont[Mapping=tex-text]{Dank Mono}
+\newcommand{\bluetext}[1]{\textcolor{blue}{#1}}
 \date{}
 \title{S.T.E.M. as a Christian Vocation\\\medskip
 \large Fall 2024}
@@ -34,8 +39,9 @@
 \begin{document}
 
 \maketitle
+
 \section*{Introduction}
-\label{sec:org4a1bde5}
+\label{sec:orgf3b89ac}
 \begin{center}
 \textbf{Faith and Vocation as Practitioners of Engineering, Computer Science, and
  Technology}
@@ -63,9 +69,11 @@ to many, the influence of technology and ``science'' are the primary reasons for
 abandoning their faith. However, many feel called to engage with technology, not
 simply as an end user, but a creator, practitioner, designer, and engineer.
 \section*{Schedule Overview}
-\label{sec:org6ea12ce}
-\subsection*{Week 1}
-\label{sec:org98323b9}
+\label{sec:org557e248}
+We are meeting the \textbf{\uline{First four Tuesdays of October at 6:00 PM in the Upstairs
+Lounge at the CSC}}
+\subsection*{Week 1, Tuesday, October 1}
+\label{sec:org7e600cb}
 \textbf{\uline{Subject: The Technological Frame}}
 \begin{mdframed}[nobreak=true]
 \emph{“Therefore everyone who hears these words of mine and puts them into practice
@@ -80,7 +88,7 @@ blew and beat against that house, and it fell with a great crash.”} Matthew
 
 Can we build our understanding of the technological vocation on rock?
 \subsubsection*{Readings}
-\label{sec:org9076204}
+\label{sec:org928a670}
 \begin{itemize}
 \item \emph{What Frames What?} by Richard Horner \emph{Reconsiderations} Vol 4, \#5 October
 2005
@@ -89,8 +97,8 @@ Lecture Given in March 1998
 \item \emph{A Christian Field Guide to Technology for Engineers and Designers}, Chapters
 2 \& 3, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 \end{itemize}
-\subsection*{Week 2}
-\label{sec:org53d3592}
+\subsection*{Week 2, Tuesday, October 8}
+\label{sec:org3845837}
 \textbf{\uline{Subject: A Secular Framing of Ethics}}
 \begin{mdframed}[nobreak=true]
 \emph{``Do not love the world or anything in the world. If anyone loves the world,
@@ -100,7 +108,7 @@ Father but from the world. The world and its desires pass away, but whoever
 does the will of God lives forever.''} 1 John 2:15-17
 \end{mdframed}
 \subsubsection*{Readings}
-\label{sec:org6966b80}
+\label{sec:org6f796b7}
 \begin{itemize}
 \item \emph{Ethics in the Age of Disruptive Technology, Appendix 1/2 - Examples of
 Technology Ethics and Responsible Technology Practices \& ITEC Principles and
@@ -111,8 +119,8 @@ Green. The Markkula Center for Applied Ethics at Santa Clara University
 \item \emph{Code of Ethics for Engineers} National Society of Professional Engineers
 \item \emph{EGS 4034 Syllabus - Engineering Ethics} University of Florida
 \end{itemize}
-\subsection*{Week 3}
-\label{sec:org0e2e6b0}
+\subsection*{Week 3, Tuesday, October 15}
+\label{sec:org53b2277}
 \textbf{\uline{Subject: A Christian Framing of Ethics}}
 \begin{mdframed}[nobreak=true]
 \emph{``Do not conform to the pattern of this world, but be transformed by the
@@ -122,15 +130,15 @@ is—his good, pleasing and perfect will.''} Romans 12:2 \newline
 learn your commands.''} Psalm 119:73
 \end{mdframed}
 \subsubsection*{Readings}
-\label{sec:org0650563}
+\label{sec:org105be41}
 \begin{itemize}
 \item \emph{The Computer Scientist as Toolsmith II} by Fred Brooks, Communications with
 the ACM, March 1996
 \item \emph{A Christian Field Guide to Technology for Engineers and Designers}, Chapters
 5 \& 6, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 \end{itemize}
-\subsection*{Week 4}
-\label{sec:org2230bbc}
+\subsection*{Week 4, Tuesday, October 22}
+\label{sec:org54be782}
 \textbf{\uline{Subject: Putting it Into Practice}}
 \begin{mdframed}[nobreak=true]
 \emph{``Whatever you do, work at it with all your heart, as working for the Lord, not
@@ -138,13 +146,13 @@ for human masters, since you know that you will receive an inheritance from the
 Lord as a reward. It is the Lord Christ you are serving.''} Colossians 3:23-24
 \end{mdframed}
 \subsubsection*{Readings}
-\label{sec:org5f866a9}
+\label{sec:orgabf0597}
 \begin{itemize}
 \item \emph{A Christian Field Guide to Technology for Engineers and Designers}, Chapter
 9, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 \end{itemize}
-\section*{Week 1}
-\label{sec:orge414a0a}
+\section*{Week 1 - October 1}
+\label{sec:org830fbe1}
 \begin{center}
 \large \textbf{\uline{The Technological Frame}}
 \end{center}
@@ -160,7 +168,7 @@ notion, they have an elaborately false notion of what the words mean.''}
 \hfill G.K. Chesterton, \emph{The Club of Queer Trades} (1905)
 \end{mdframed}
 \subsection*{Readings}
-\label{sec:orgf60ccc4}
+\label{sec:orgd094db2}
 \begin{enumerate}
 \item \emph{What Frames What?} by Richard Horner
 \item \emph{Five Things We Need to Know About Technological Change} by Neil Postman
@@ -168,7 +176,7 @@ notion, they have an elaborately false notion of what the words mean.''}
 2 \& 3, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 \end{enumerate}
 \subsection*{Discussion Topics}
-\label{sec:org6d1b044}
+\label{sec:orgf1b0d07}
 \begin{itemize}
 \item What frame does modern society inhabit? Is it Christian? Post-Christian?
 Modern? Utilitarian? Religious? Anti-religious? Technological?
@@ -177,8 +185,8 @@ Modern? Utilitarian? Religious? Anti-religious? Technological?
 technology?
 \item Technology as an \emph{ecological} (not \emph{additive}) change.
 \end{itemize}
-\section*{Week 2}
-\label{sec:orgb2dd8a5}
+\section*{Week 2 - October 8}
+\label{sec:org2b8bb2b}
 \begin{center}
 \large \textbf{\uline{A Secular Framing of Ethics}}
 \end{center}
@@ -197,7 +205,7 @@ original sin almost the first thing to be believed in.''}
 \hfill G.K. Chesterton, \emph{Heretics} (1905)
 \end{mdframed}
 \subsection*{Readings}
-\label{sec:org1079d7b}
+\label{sec:org63f2c4d}
 \begin{enumerate}
 \item \emph{Ethics in the Age of Disruptive Technology, Appendix 1/2} by Intstitute for
 Technology, Ethics, and Culture
@@ -207,7 +215,7 @@ Green
 \item \emph{EGS 4034 Syllabus - Engineering Ethics}, University of Florida
 \end{enumerate}
 \subsection*{Discussion Topics}
-\label{sec:orgcc07b8c}
+\label{sec:orgea950e9}
 \begin{itemize}
 \item ITEC listed Microsoft, IBM, and Google as \emph{exemplars} of an ``ethical company''.
 Do you agree? Why or why not?
@@ -217,8 +225,8 @@ utilitarianism/consequentialism
 should be judged on their outcome, and the judging criteria is the \emph{net
 good/utility/happiness} as a result. How ought a Christian think about this?
 \end{itemize}
-\section*{Week 3}
-\label{sec:org07bb341}
+\section*{Week 3 - October 15}
+\label{sec:org10b7842}
 \begin{center}
 \large \textbf{\uline{A Christian Framing of Ethics}}
 \end{center}
@@ -238,7 +246,7 @@ series of moral laws or a collection of rites. Christianity is a fact, an event.
 \hfill Luigi Giussani, \emph{Generating Traces in the History of the World} (2010)
 \end{mdframed}
 \subsection*{Readings}
-\label{sec:orge1649a1}
+\label{sec:org341b038}
 \begin{enumerate}
 \item \emph{The Computer Scientist as Toolsmith II} by Fred Brooks
 \item \emph{A Christian Field Guide to Technology for Engineers and Designers}, Chapters
@@ -246,15 +254,15 @@ series of moral laws or a collection of rites. Christianity is a fact, an event.
 \item Matthew 5-7 (The Sermon on the Mount)
 \end{enumerate}
 \subsection*{Discussion Topics}
-\label{sec:orgc761bb2}
+\label{sec:orgd328e87}
 \begin{itemize}
 \item The revival of virtue ethics
 (\url{https://plato.stanford.edu/entries/ethics-virtue/}) in modern times has seen a
 resurgence among Christian thinkers. How does this interact with technology?
 \item What are the main differences between Christian ethics and secular ethics?
 \end{itemize}
-\section*{Week 4}
-\label{sec:orgaf9c371}
+\section*{Week 4 - October 22}
+\label{sec:orgbd5a6eb}
 \begin{center}
 \large \textbf{\uline{Putting it Into Practice}}
 \end{center}
@@ -287,13 +295,13 @@ hoard them\ldots{}.Believe and raise the banner. Hold it high\ldots{}''}
 \hfill Father Zosima in Fyodor Dostoevsky's \emph{The Brothers Karamazov} (1879)
 \end{mdframed}
 \subsection*{Readings}
-\label{sec:org180af48}
+\label{sec:org354f247}
 \begin{enumerate}
 \item \emph{A Christian Field Guide to Technology for Engineers and Designers}, Chapter
 9, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 \end{enumerate}
 \subsection*{Discussion Topics}
-\label{sec:org7b2e69e}
+\label{sec:orgfaa8422}
 \begin{itemize}
 \item How ought a Christian act within the institution?
 \item What are some tangible ways to stay rooted in the beatific vision while

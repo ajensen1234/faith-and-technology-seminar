@@ -5,26 +5,36 @@
 :DRAWER:
 #+subtitle: Fall 2024
 #+author:
+#+date:
 #+filetags: :article:
 #+latex_class: article
-#+latex_class_options: [11pt]
+#+latex_class_options: [12pt]
 #+latex_header: \usepackage[left=0.75in, right=0.75in, top=0.75in, bottom=0.75in]{geometry}
 #+bibliography: ~/org/biblio.bib
 #+latex_header: \usepackage{biblatex}
 #+latex_header: \usepackage{mdframed}
 #+options: toc:nil num:nil
-#+latex_header_extra: \usepackage{mlmodern}
-#+description:
-#+keywords:
-#+latex_engraved_theme:
-#+latex_compiler: pdflatex
-#+cite_export: biblatex
-#+date:
 #+latex_header: \usepackage{titlesec}
 #+latex_header: \titleformat{\section}[block]{\Large\bfseries\filcenter}{}{1em}{}
 #+latex_header: \let\oldsection\section
 #+latex_header: \renewcommand\section{\clearpage\oldsection}
+#+LATEX_HEADER_EXTRA: \usepackage{enumitem}
+#+LATEX_HEADER_EXTRA: \setlist[itemize]{itemsep=1pt}
+#+LATEX_HEADER_EXTRA: \setlist[enumerate]{itemsep=1pt}
+#+latex_header_extra: \usepackage{mlmodern}
+#+latex_header_extra: \usepackage{xcolor}
+#+latex_header_extra: \usepackage{amsmath, amssymb}
+#+latex_header_extra: \usepackage{fontspec}
+#+latex_header_extra: \setmainfont{Linux Libertine}
+#+latex_header_extra: \setmonofont[Mapping=tex-text]{Dank Mono}
+#+description:
+#+keywords:
+#+LATEX_HEADER_EXTRA: \newcommand{\bluetext}[1]{\textcolor{blue}{#1}}
+#+latex_engraved_theme:
+#+latex_compiler: xelatex
+#+cite_export: biblatex
 :END:
+
 * Introduction
 #+begin_center
 *Faith and Vocation as Practitioners of Engineering, Computer Science, and
@@ -55,7 +65,9 @@ simply as an end user, but a creator, practitioner, designer, and engineer.
 
 
 * Schedule Overview
-** Week 1
+We are meeting the *_First four Tuesdays of October at 6:00 PM in the Upstairs
+Lounge at the CSC_*
+** Week 1, Tuesday, October 1
 *_Subject: The Technological Frame_*
 #+attr_latex: :options [nobreak=true]
 #+begin_mdframed options [nobreak=true]
@@ -77,7 +89,7 @@ Can we build our understanding of the technological vocation on rock?
   Lecture Given in March 1998
 - /A Christian Field Guide to Technology for Engineers and Designers/, Chapters
   2 & 3, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
-** Week 2
+** Week 2, Tuesday, October 8
 *_Subject: A Secular Framing of Ethics_*
 #+attr_latex: :options [nobreak=true]
 #+begin_mdframed nobreak=true
@@ -97,7 +109,7 @@ does the will of God lives forever."/ 1 John 2:15-17
   Green. The Markkula Center for Applied Ethics at Santa Clara University
 - /Code of Ethics for Engineers/ National Society of Professional Engineers
 - /EGS 4034 Syllabus - Engineering Ethics/ University of Florida
-** Week 3
+** Week 3, Tuesday, October 15
 *_Subject: A Christian Framing of Ethics_*
 #+attr_latex: :options [nobreak=true]
 #+begin_mdframed
@@ -113,7 +125,7 @@ learn your commands."/ Psalm 119:73
 - /A Christian Field Guide to Technology for Engineers and Designers/, Chapters
   5 & 6, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
 
-** Week 4
+** Week 4, Tuesday, October 22
 *_Subject: Putting it Into Practice_*
 #+attr_latex: :options [nobreak=true]
 #+begin_mdframed
@@ -124,7 +136,7 @@ Lord as a reward. It is the Lord Christ you are serving."/ Colossians 3:23-24
 *** Readings
 - /A Christian Field Guide to Technology for Engineers and Designers/, Chapter
   9, by Ethan Brue, Derek Schuurman, and Steven Vanderleest
-* Week 1
+* Week 1 - October 1
 #+begin_center
 @@latex:\large@@ *_The Technological Frame_*
 #+end_center
@@ -151,7 +163,7 @@ notion, they have an elaborately false notion of what the words mean."/
 - What serves what? Does technology serve us, or are we molded to serve
   technology?
 - Technology as an /ecological/ (not /additive/) change.
-* Week 2
+* Week 2 - October 8
 #+begin_center
 @@latex:\large@@ *_A Secular Framing of Ethics_*
 #+end_center
@@ -185,7 +197,7 @@ original sin almost the first thing to be believed in."/
   should be judged on their outcome, and the judging criteria is the /net
   good/utility/happiness/ as a result. How ought a Christian think about this?
 
-* Week 3
+* Week 3 - October 15
 #+begin_center
 @@latex:\large@@ *_A Christian Framing of Ethics_*
 #+end_center
@@ -214,7 +226,7 @@ series of moral laws or a collection of rites. Christianity is a fact, an event.
   (https://plato.stanford.edu/entries/ethics-virtue/) in modern times has seen a
   resurgence among Christian thinkers. How does this interact with technology?
 - What are the main differences between Christian ethics and secular ethics?
-* Week 4
+* Week 4 - October 22
 #+begin_center
 @@latex:\large@@ *_Putting it Into Practice_*
 #+end_center
